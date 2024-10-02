@@ -1,4 +1,4 @@
-<h3>Loan Approval Analysis Using Exploratory Data Analysis (EDA)<h3>
+<h2>Loan Approval Analysis Using Exploratory Data Analysis (EDA)<h2>
 
 Credit lending companies often face difficulties in making loan approval decisions when clients have no existing credit history. This leads to two major issues:
 Business Loss: Not approving a loan for clients who are likely to repay can result in lost business opportunities.
